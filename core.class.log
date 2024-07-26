@@ -1,0 +1,70 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491137950276@s.whatsapp.net',
+    fromMe: false,
+    id: '571540B5F8AAA60B9D81CE909BA163E4',
+    participant: undefined
+  },
+  messageTimestamp: 1720663800,
+  pushName: 'Mica👑',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pq',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pq',
+  from: '5491137950276'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491137950276@s.whatsapp.net',
+    fromMe: false,
+    id: 'AFE31700E3BA54A1D6F66994A5C210BA',
+    participant: undefined
+  },
+  messageTimestamp: 1720663807,
+  pushName: 'Mica👑',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/25603588_970197521571467_1023705398420921456_n.enc?ccb=11-4&oh=01_Q5AaIN6axygFL55H5peSC8QUMwKoTTUz2zrGR8Jc7LvXo7Fv&oe=66B6AAE2&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 3,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/25603588_970197521571467_1023705398420921456_n.enc?ccb=11-4&oh=01_Q5AaIN6axygFL55H5peSC8QUMwKoTTUz2zrGR8Jc7LvXo7Fv&oe=66B6AAE2&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__db5cf054-056f-43d2-941b-b602f7983803',
+  from: '5491137950276'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_74a497e8-5ead-47a7-8aae-16d3a7b74e36',
+  keyword: 'key_83778043-7b77-412b-b55d-6efba5894322',
+  answer: 'Lo sentimos, por el momento no podemos escuchar audios😔. Si necesitas consultar algo, digitá *MENU*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4e30360997533a3b15f3b580e331a38b'
+}
